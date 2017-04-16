@@ -13,4 +13,10 @@ import UIKit
 // http://stackoverflow.com/a/24021180/1060314
 
 custom_unity_init(CommandLine.argc, CommandLine.unsafeArgv)
-UIApplicationMain(CommandLine.argc, CommandLine.unsafeArgv, NSStringFromClass(UIApplication), NSStringFromClass(AppDelegate))
+UIApplicationMain(CommandLine.argc,
+                  UnsafeMutableRawPointer(CommandLine.unsafeArgv)
+                    .bindMemory(
+                        to: UnsafeMutablePointer<Int8>.self,
+                        capacity: Int(CommandLine.argc)),
+                  NSStringFromClass(UIApplication),
+                  NSStringFromClass(AppDelegate))
