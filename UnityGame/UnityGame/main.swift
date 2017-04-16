@@ -12,5 +12,5 @@ import UIKit
 // overriding @UIApplicationMain
 // http://stackoverflow.com/a/24021180/1060314
 
-custom_unity_init(Process.argc, Process.unsafeArgv)
-UIApplicationMain(Process.argc, Process.unsafeArgv, NSStringFromClass(UIApplication), NSStringFromClass(AppDelegate))
+custom_unity_init(CommandLine.argc, CommandLine.unsafeArgv)
+UIApplicationMain(CommandLine.argc, CommandLine.unsafeArgv, NSStringFromClass(UIApplication), NSStringFromClass(AppDelegate))

@@ -1,6 +1,7 @@
 #pragma once
 
 #import <QuartzCore/CADisplayLink.h>
+#import <UIKit/UIKit.h>
 
 #include "PluginBase/RenderPluginDelegate.h"
 

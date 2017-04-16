@@ -9,7 +9,7 @@
 
 #import "UnityUtils.h"
 #import "UnityAppController.h"
-#import "Unity/UnityInterface.h"
+#import "UnityInterface.h"
 #endif /* UnityBridge_h */
 
 
