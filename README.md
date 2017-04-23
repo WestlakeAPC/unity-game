@@ -1,25 +1,24 @@
 # unity-game
 A Unity 3D game with plot!
 
-Project Roles:
+## Project Roles:
 
-Joseph Jin (Programmer)
-  -Responsible for programming character movement.
-  -Responsible for programming interface.
+- Joseph Jin (Programmer)
+  - Programs main character movement.
+  - Programs mobile and desktop interfaces.
+- Eli Bradley (Programmer)
+  - Programs enemy character movement.
+  - Programs mobile and desktop interfaces.
 
-Eli Bradley (Programmer)
-  -Responsible for programming enemy character movement.
-  -Responsible for programming interface.
+- David Reichert (3D Modeler)
+  - Designs layout and game terrain.
+  - Designs all needed 3d models.
+  - Finds assets for the game.
 
-David Reichert (3D Modeler)
-  -Layout game terrain.
-  -Designs 3d models.
-  -Find assets for the game.
+- Sam Hollenbeck (Graphics designer)
+  - Assists David by creating required textures.
+  - Creates other needed assets for the game.
 
-Sam Hollenbeck (Graphics designer)
-  -Assist 3D modeler by creating required textures.
-  -Responsible for creating other need assets for the game.
-
-Faris Bataineh (Writer)
-  -Creates story outline
-  -Designs interface
+- Faris Bataineh (Writer)
+  - Creates story outline.
+  - Designs mobile and desktop interfaces.
