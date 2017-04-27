@@ -13,7 +13,7 @@ void UnityInitTrampoline();
 // WARNING: this MUST be c decl (NSString ctor will be called after +load, so we cant really change its value)
 const char* AppControllerClassName = "UnityAppController";
 
-int main_unity_default(int argc, char* argv[])
+int main(int argc, char* argv[])
 {
     signed long long startTime = mach_absolute_time();
     @autoreleasepool

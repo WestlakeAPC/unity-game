@@ -1973,7 +1973,7 @@
 				TargetAttributes = {
 					1793B4C41EA3C97C006C6A02 = {
 						CreatedOnToolsVersion = 8.3.1;
-						DevelopmentTeam = M64HPXXUJF;
+						DevelopmentTeam = 9SR8L2XE3A;
 						LastSwiftMigration = 0830;
 						ProvisioningStyle = Automatic;
 					};
@@ -2262,7 +2262,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
-				DEVELOPMENT_TEAM = M64HPXXUJF;
+				DEVELOPMENT_TEAM = 9SR8L2XE3A;
 				INFOPLIST_FILE = UnityGame/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.ethertyper.UnityGame;
@@ -2281,7 +2281,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
-				DEVELOPMENT_TEAM = M64HPXXUJF;
+				DEVELOPMENT_TEAM = 9SR8L2XE3A;
 				INFOPLIST_FILE = UnityGame/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.ethertyper.UnityGame;
