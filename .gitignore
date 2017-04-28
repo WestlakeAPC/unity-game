@@ -151,5 +151,6 @@ sysinfo.txt
 !*.xcodeproj/xcshareddata/
 !*.xcworkspace/contents.xcworkspacedata
 /*.gcno
+Xcode Project/Libraries/libiPhone-lib.a
 
 # End of https://www.gitignore.io/api/macos,swift,unity,xcode
